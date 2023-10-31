@@ -11,7 +11,7 @@ function addTask() {
         `;
         taskList.appendChild(li);
 
-        taskInput.value = ""; // Clear the input field
+        taskInput.value = "";
     }
 }
 
